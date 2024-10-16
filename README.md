@@ -1,4 +1,20 @@
-## Hi there 👋
+## Hi there 👋, I'm James Tu 
+I am a student and aspiring software engineer at Cornell University majoring in Computer Science and minoring in Artificial Intelligence. I'm passionate about leveraging full-stack development and AI to make an impact and solve real-world problems.
+## 🤓 About Me 
+### 🛠️ Skills 
+- 💻 Languages: Python, JavaScript/TypeScript, Java, HTML/CSS, Swift, OCaml
+- 📖 Frameworks/Libraries: React, Express, Node.js, TailwindCSS, Flask, Scikit-learn, NumPy
+- ☁️ Databases/Technologies: SQL (PostgreSQL, SQLite), MongoDB, AWS, Google Cloud Platform
+- 🧰 Developer Tools: Git, Github, Docker, Jupyter Notebook, Postman, VS Code, IntelliJ, XCode
+
+### 🏀 Hobbies & Interests
+- Chess, Solving Rubik's Cubes, Playing Ukelele, Basketball, Manga, Anime, Cat Videos
+
+## 📫 Contact
+- 📧 Email: [jamestucontact@gmail.com](mailto:jamestucontact@gmail.com)
+- 🔗 LinkedIn: https://www.linkedin.com/in/jamestu2026/
+## ⭐ Projects
+- Check out the repos below! 👇
 
 <!--
 **JamesDos/JamesDos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +30,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
