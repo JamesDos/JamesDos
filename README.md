@@ -10,9 +10,12 @@ I am a student and aspiring software engineer at Cornell University majoring in 
 ### 🏀 Hobbies & Interests
 - Chess, Solving Rubik's Cubes, Playing Ukelele, Basketball, Manga, Anime, Cat Videos
 
+## 📝 Resume
+- Check out my [Resume!](https://drive.google.com/file/d/1X28yBmdM9jKJnFuRYqCa2szSNJ3PMiBx/view?usp=sharing) 
 ## 📫 Contact
 - 📧 Email: [jamestucontact@gmail.com](mailto:jamestucontact@gmail.com)
-- 🔗 LinkedIn: https://www.linkedin.com/in/jamestu2026/
+- 🤝 LinkedIn: https://www.linkedin.com/in/jamestu2026/
+- 🌐 Website: 🚧 Under Construction (follow for updates!) 🚧
 ## ⭐ Projects
 - Check out the repos below! 👇
 
