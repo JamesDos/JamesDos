@@ -15,7 +15,7 @@ I am a student and aspiring software engineer at Cornell University majoring in 
 ## 📫 Contact
 - 📧 Email: [jamestucontact@gmail.com](mailto:jamestucontact@gmail.com)
 - 🤝 LinkedIn: https://www.linkedin.com/in/jamestu2026/
-- 🌐 Website: 🚧 Under Construction (follow for updates!) 🚧
+- 🌐 Website: [Portfolio-Website](https://james-tu-portfolio.vercel.app/)
 ## ⭐ Projects
 - Check out the repos below! 👇
 
